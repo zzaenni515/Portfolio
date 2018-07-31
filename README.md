@@ -1,12 +1,12 @@
 # HWANG CHAE LIN Portfolio
-
+- - -
 ##  **Skills**
   * Language : C, C++, Java
   * Web : HTML5, CSS3, JavaScript, JQuery, Ajax, Servlet, Jsp, JSON, JSTL
   * Framework : Bootstrap, Spring, Mybatis
   * DBMS : Oracle, Mysql
   * Tool(IDE) : Visual Studio 2013, Eclipse, Android Studio
-  
+- - -  
 ##  **Career**
   * 영남대학교 정보통신공학과 졸업
   * 2018.02 ~ 07
@@ -17,7 +17,7 @@
     MVC 패턴을 적용한 자전거 여행 & 푸드트럭 웹 사이트 **'Bytruck'** 개발
   * 2018.03 ~ 04
     Java Swing을 이용한 스터디룸 예약 및 POS 시스템 **'TalesManager'** 개발
-
+- - -
 ## **Projects**
 ### 1. [소셜 네트워크 서비스 **'Dailygram'**](https://github.com/zzaenni515/Dailygram)
    #### 설명
@@ -34,7 +34,7 @@
    #### 역할
    * **Mysql**을 활용한 DATABASE모델링
    * HTML5, CSS3, Bootstrap을 활용한 반응형 UI 설계
-   * 추천 알고리즘을 활용한 사용자 맞춤 (회원, 게시물)추천 기능
+   * 추천 알고리즘을 활용한 사용자 맞춤 회원추천 기능
    * 실시간 알림 기능(친구요청, 좋아요)
    * 친구관리 기능(팔로우 신청/취소, 구독요청/취소 및 팔로워,팔로잉,구독 리스트)
    * 공공데이터 오픈 API 및 SimpleCaptcha API를 활용한 사용자 회원가입 기능
@@ -59,5 +59,21 @@
  * JAI를 활용한 이미지파일 업로드 및 수정
  * 회원 관리(로그인, 로그아웃, 회원가입, 정보 수정, 탈퇴)
  * 실시간 타임라인 기능
-
-  
+ - - -
+### 3. Java Application 'TalesManager'
+ #### 설명
+ * **Java Swing**을 활용한 스터디룸 예약 및 POS System
+ * 회원, 지점관리자, 본사관리자 권한에 따른 View 분리
+ * 지점별 예약, 상품 및 회원 관리
+ * 회원별 등급제를 이용한 할인율 적용
+ * 매장별 등급제를 이용한 발주시 할인율 처리
+ * 지점별 재고 관리를 통한 발주 처리
+ * **jFreeChart**를 활용한 통계(매장별, 본사) 
+ 
+ #### 역할
+ * Oracle을 활용한 DATABASE 모델링
+ * Java Swing을 활용한 전반적인 UI 설계
+ * 회원 관리(로그인, 로그아웃, 탈퇴, 회원정보 수정)
+ * 스터디룸 및 상품 결제 기능
+ * 지점별 매출 관리
+ - - -
