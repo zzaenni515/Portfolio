@@ -19,6 +19,7 @@
 - - -
 ## **Projects**
 ### 1. [Social Network Service **'Dailygram'**](https://github.com/zzaenni515/Dailygram)
+  #### [▶시연영상](https://www.youtube.com/watch?v=W7QLGkEyaFc)
    #### 설명
    * **Spring, Mybatis, Framework**를 적용한 소셜 네트워크 서비스
    * **추천 알고리즘**을 통한 사용자 맞춤 추천
