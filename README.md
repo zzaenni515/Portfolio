@@ -5,7 +5,7 @@
   * Web : HTML5, CSS3, JavaScript, JQuery, Ajax, Servlet, Jsp, JSON, JSTL
   * Framework : Bootstrap, Spring, Mybatis
   * DBMS : Oracle, Mysql
-  * Tool(IDE) : Visual Studio 2013, Eclipse 
+  * Tool(IDE) : Visual Studio 2013, Eclipse, Android Studio
   
 ##  **Career**
   * 영남대학교 정보통신공학과 졸업
@@ -32,11 +32,32 @@
    * **Tiles API**를 활용한 레이아웃 설정
    
    #### 역할
-   * Mysql을 활용한 DATABASE 모델링
+   * **Mysql**을 활용한 DATABASE모델링
    * HTML5, CSS3, Bootstrap을 활용한 반응형 UI 설계
    * 추천 알고리즘을 활용한 사용자 맞춤 (회원, 게시물)추천 기능
    * 실시간 알림 기능(친구요청, 좋아요)
    * 친구관리 기능(팔로우 신청/취소, 구독요청/취소 및 팔로워,팔로잉,구독 리스트)
    * 공공데이터 오픈 API 및 SimpleCaptcha API를 활용한 사용자 회원가입 기능
    * Chart.js를 활용한 회원 통계(월별 가입자 수, 연령대, 성비) 
+   - - -
+### 2. [웹 사이트 'Bytruck'](https://github.com/Bytruck/bytruck)
+ #### 설명
+ * **MVC패턴**을 적용한 웹 사이트
+ * 자전거 여행자, 푸드트럭 판매자, 관리자 권한 부여
+ * **Naver Map API**를 활용한 여행 코스 및 푸드트럭 위치 공유
+ * 사용자 본인만의 특별한 여행 코스 짜기 및 여행 후기 공유
+ * 타임라인을 이용한 회원들 간의 실시간 소통 
+ * **JAI**를 활용한 썸네일 이미지 업로드
+ * **FullCalender, Chart.js API**를 활용한 관리자 페이지
+ * **반응형 웹**을 구현하여 모바일 상에서의 사용자 편의성 제공
+ 
+ #### 역할
+ * **Oracle**을 활용한 DATABASE모델링
+ * BootStrap을 활용한 UI설계
+ * Naver Map API를 활용한 자전거 여행자 여행 코스 표시 및 처리
+ * 게시물 등록, 수정, 상세보기, 리스트
+ * JAI를 활용한 이미지파일 업로드 및 수정
+ * 회원 관리(로그인, 로그아웃, 회원가입, 정보 수정, 탈퇴)
+ * 실시간 타임라인 기능
+
   
