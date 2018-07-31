@@ -1,5 +1,4 @@
 # HWANG CHAE LIN Portfolio
-- - -
 ##  **Skills**
   * Language : C, C++, Java
   * Web : HTML5, CSS3, JavaScript, JQuery, Ajax, Servlet, Jsp, JSON, JSTL
@@ -19,7 +18,7 @@
     Java Swing을 이용한 스터디룸 예약 및 POS 시스템 **'TalesManager'** 개발
 - - -
 ## **Projects**
-### 1. [소셜 네트워크 서비스 **'Dailygram'**](https://github.com/zzaenni515/Dailygram)
+### 1. [Social Network Service **'Dailygram'**](https://github.com/zzaenni515/Dailygram)
    #### 설명
    * **Spring, Mybatis, Framework**를 적용한 소셜 네트워크 서비스
    * **추천 알고리즘**을 통한 사용자 맞춤 추천
@@ -40,7 +39,7 @@
    * 공공데이터 오픈 API 및 SimpleCaptcha API를 활용한 사용자 회원가입 기능
    * Chart.js를 활용한 회원 통계(월별 가입자 수, 연령대, 성비) 
    - - -
-### 2. [웹 사이트 'Bytruck'](https://github.com/Bytruck/bytruck)
+### 2. [Web Application 'Bytruck'](https://github.com/Bytruck/bytruck)
  #### 설명
  * **MVC패턴**을 적용한 웹 사이트
  * 자전거 여행자, 푸드트럭 판매자, 관리자 권한 부여
