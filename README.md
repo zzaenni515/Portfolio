@@ -21,7 +21,7 @@
 ## **Projects**
 ### 1. [소셜 네트워크 서비스 **'Dailygram'**](https://github.com/zzaenni515/Dailygram)
    #### 설명
-   * Spring, Mybatis, Framework를 적용한 소셜 네트워크 서비스
+   * **Spring, Mybatis, Framework**를 적용한 소셜 네트워크 서비스
    * **추천 알고리즘**을 통한 사용자 맞춤 추천
    * 사진 업로드 시 시간 **딜레이** 및 회원가입 페이지의 **Captcha API**를 통한 보안성 강화
    * **RESTful API**를 이용한 댓글 및 답글 기능
